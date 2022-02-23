@@ -1,5 +1,5 @@
 # Smart Contracts for StableDAO
-Link: https://www.stabledao.io
+Link: https://stabledao.io
 ```shell
 npx hardhat accounts
 npx hardhat compile
